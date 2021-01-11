@@ -16,8 +16,4 @@ Tap on the settings button to choose which station you wish to visualise.
 
 Copyright Attributions:
 
-![Screen_capture](./screenshots/screenshot_01.jpg)
-
-![Screen_capture](./screenshots/screenshot_02.jpg)
-
-![Screen_capture](./screenshots/screenshot_04.jpg)
+![Screen_capture](./screenshots/screenshot_01_.jpg)
