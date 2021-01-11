@@ -2,7 +2,7 @@
 
 ### [Click here to download on Googleplay](https://play.google.com/store/apps/details?id=com.uk.traincatcher)
 
-(./screenshots/Screenshot_03.png)
+![Screen_capture](./screenshots/screenshot_03.png)
 
 UK Train station boards. Departure and arrival boards for any train station in the UK.
 
@@ -16,8 +16,8 @@ Tap on the settings button to choose which station you wish to visualise.
 
 Copyright Attributions:
 
-![Screen_capture](./screenshots/Screenshot_01.png)
+![Screen_capture](./screenshots/screenshot_01.png)
 
-![Screen_capture](./screenshots/Screenshot_02.png)
+![Screen_capture](./screenshots/screenshot_02.png)
 
-![Screen_capture](./screenshots/Screenshot_04.png)
+![Screen_capture](./screenshots/screenshot_04.png)
